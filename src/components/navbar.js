@@ -1,7 +1,14 @@
 export default function NavBar() {
     return(
         <nav>
-            <p>NavBar component</p>
+            <div className="nav-container">
+                <div>
+                    <p>Floral tips</p>
+                </div>
+                <div>
+                    <p>Profile logo</p>
+                </div>
+            </div>
         </nav>
     );
 }
