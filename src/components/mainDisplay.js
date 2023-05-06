@@ -9,9 +9,9 @@ export default function MainDisplay() {
                     <p>Form section</p>
                 </section>
             </section>
-            <section className="image-section">
+            <figure className="figure-section">
                 <p>Image</p>
-            </section>
+            </figure>
         </article>
     );
 }
