@@ -6,6 +6,7 @@ export default function LandingPage() {
     return(
         <>
             <NavBar />
+            <h1 class="text-3xl font-bold underline">Let's test tailwindcss</h1>
             <MainDisplay />
             <Footer />
         </>
