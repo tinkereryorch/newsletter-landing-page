@@ -11,7 +11,8 @@ module.exports = {
       },
       colors: {
         'floral-gray': '#94A7AE',
-        'floral-purple': '#C0A9BD'
+        'floral-purple': '#C0A9BD',
+        'floral-fill': '#F4F2F3'
       },
     },
   },
