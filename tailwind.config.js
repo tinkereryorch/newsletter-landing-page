@@ -12,7 +12,8 @@ module.exports = {
       colors: {
         'floral-gray': '#94A7AE',
         'floral-purple': '#C0A9BD',
-        'floral-fill': '#F4F2F3'
+        'floral-fill': '#F4F2F3',
+        'info-text': '#525252' 
       },
     },
   },
