@@ -13,7 +13,8 @@ module.exports = {
         'floral-gray': '#94A7AE',
         'floral-purple': '#C0A9BD',
         'floral-fill': '#F4F2F3',
-        'info-text': '#525252' 
+        'info-text': '#525252',
+        'floral-olive': '#64766A'
       },
     },
   },
