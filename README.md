@@ -2,8 +2,23 @@
 
 ![Image](public/FloralLandingPage.png)
 
+This landing page example is yours to explore. 
+
+I created it using nextjs and styled it using tailwind.css. 
+
+Some ideas that you can play around with this repo:
+
+- Make it responsible.
+- Write the backend code to make the `Join` button work. 
+- Change the styles using tailwindcss.
+- Expand the navbar functionality.
+
+If you have any questions, please reach out over Twitter [@tinkerereryorch](https://twitter.com/TinkererYorch).
+
+The path to launch the landing page is: `localhost:3000/landing_page` after you run the development server. 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 ## Getting Started
 
