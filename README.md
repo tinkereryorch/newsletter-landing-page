@@ -4,9 +4,9 @@
 
 This landing page example is yours to explore. 
 
-I created it using nextjs and styled it using tailwind.css. 
+I created it using [nextjs](https://nextjs.org/) and styled it using (tailwind.css)[https://tailwindcss.com/]. 
 
-Some ideas that you can play around with this repo:
+Some ideas you can implement in this repo:
 
 - Make it responsible.
 - Write the backend code to make the `Join` button work. 
