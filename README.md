@@ -4,7 +4,7 @@
 
 This landing page example is yours to explore. 
 
-I created it using [nextjs](https://nextjs.org/) and styled it using (tailwind.css)[https://tailwindcss.com/]. 
+I created it using [nextjs](https://nextjs.org/) and styled it using [tailwind.css](https://tailwindcss.com/). 
 
 Some ideas you can implement in this repo:
 
